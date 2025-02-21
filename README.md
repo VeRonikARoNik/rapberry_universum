@@ -41,7 +41,7 @@ The system utilizes on-device vision processing to enhance real-time data analys
 - Intelligent monitoring and surveillance systems,
 - Automated classification and image analysis in industrial, space, and medical sectors,
 - Autonomous robotics and navigation systems,
-- Space exploration and applications in SpaceX, Clone Robotics, and AI-powered robotics systems,
+- Space exploration and integration with advanced robotic and AI-driven systems,
 - Education and research on artificial intelligence in embedded systems.
 
 ## **Summary**
