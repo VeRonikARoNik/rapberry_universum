@@ -1,6 +1,6 @@
 **Project Title:** Raspberry Universum – Intelligent AI System for Image Analysis Using Raspberry Pi 5
 
-500 sensor, enabling real-time object detection. Applications include robotics, space exploration, and intelligent monitoring systems.
+sensor, enabling real-time object detection. Applications include robotics, space exploration, and intelligent monitoring systems.
 
 tions such as autonomous robotics and surveilla
 
